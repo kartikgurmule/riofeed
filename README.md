@@ -1,1 +1,4 @@
-# riofeed
+Rio 
+Rio's mission is to create a platform where anyone, anywhere in the world can explore NFTs, follow people they, like, join discussions, buy/sell NFTs, and many more within a massive Rio Ecosystem which is run on RIO Tokens. We aim to build a modern social media platform that fulfills our modern needs. Our social media platform will help people connect through the medium of NFTs instead of the regular photos or videos we see today. Once Rio's community is completely established on Rio's social media platform, we shall create Rio Ecosystem with multiple other platforms integrated and daily needs for the modern generation fulfilled; throughout the platform, RIO tokens will be circulated and used to perform transactions. Complete Rio Ecosystem will be secure and anonymous unless users prefer to reveal their identity over their profile. More information on our website - Riofeed.com
+
+Built on the Binance Smart Chain (BSC)
